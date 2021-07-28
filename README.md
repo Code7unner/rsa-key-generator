@@ -1,1 +1,6 @@
-Golang RSA Key Generator
+##Golang RSA Key Generator
+
+####Usage: 
+```makefile
+make run
+```
